@@ -1,0 +1,8 @@
+{
+  "description": "",
+  "dependencies": {
+    "dependency": "^0.0.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
