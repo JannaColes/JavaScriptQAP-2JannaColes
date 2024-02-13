@@ -1,5 +1,6 @@
 const http = require('http');
 
+// The server is created and the request event is handled in the same file
 const server = http.createServer((request, response) => {
   const { url } = request;
   console.log('Requested URL:', url);
